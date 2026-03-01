@@ -14,6 +14,6 @@
   Solicita confirmacion para volver a jugar (solo acepta si o no) 
   Herraminetas utiilizadas: visual studio, python, libreria random
   Este proyecto me ayudo a adquirir conociminetos basicos sobre programacion, pensamiento logico y validacion de datos, demostrando que incluso un juego sencillo puede ayudar a desarrollar habilidades
-  fundamentales en desarrollo de sotware.
+  fundamentales en desarrollo de software.
   
   
